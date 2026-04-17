@@ -9,19 +9,17 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently working with **React**, **Next.js**, **React Native**, and **Node.js**
+- 🌱 Currently working with **React**, **Next.js**, **React Native**, **Node.js** and **.NET**
 - 💻 Skilled in **Web & Mobile App Development**, **Database Design**, and **API Development**
-- 📊 Strong foundation in **Data Structures, OOP, and System Design**
+- 📊 Strong foundation in **Data Structures, OOP, BackEnd Developer**
 - 📧 Reach me at: **foziayimam87@gmail.com**
 - 📍 Based in **Addis Ababa, Ethiopia**
-- ⚡ Fun fact: **I love building efficient systems and solving real-world problems with code**
+
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fewzya-yimam)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:foziayimam87@gmail.com)
-
 ---
 
 ### 🛠️ Tech Stack
