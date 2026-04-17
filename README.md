@@ -56,17 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefiy&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
----
 
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fefiy&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fefiy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is poetry written in logic"** 💻✨
-</div>
