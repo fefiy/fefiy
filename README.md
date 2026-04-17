@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently working with **React**, **Next.js**, **React Native**, **Node.js** and **.NET**
-- 💻 Experince in **Web & Mobile App Development**, **Database Design**, and **API Development**
+- 💻 Experinced in **Web & Mobile App Development**, **Database Design**, and **API Development**
 - 📧 Reach me at: **foziayimam87@gmail.com**
 - 📍 Based in **Addis Ababa, Ethiopia**
 
