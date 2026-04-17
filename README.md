@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fewzya Yimam  
 
-## Software Developer | Full-Stack Developer  
+##  Full-Stack Developer  
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%2F+Next.js+Developer;React+Native+Enthusiast;Cloud+Certified+Engineer" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🌱 Currently working with **React**, **Next.js**, **React Native**, **Node.js** and **.NET**
-- 💻 Skilled in **Web & Mobile App Development**, **Database Design**, and **API Development**
+- 💻 Experince in **Web & Mobile App Development**, **Database Design**, and **API Development**
 - 📧 Reach me at: **foziayimam87@gmail.com**
 - 📍 Based in **Addis Ababa, Ethiopia**
 
