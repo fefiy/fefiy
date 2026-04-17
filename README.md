@@ -48,13 +48,9 @@
 ![Socket.io](https://img.shields.io/badge/socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fefiy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fefiy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefiy&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
